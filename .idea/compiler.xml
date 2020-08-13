@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="avicTest" />
+        <module name="avicTest (home task)" />
       </profile>
     </annotationProcessing>
   </component>
